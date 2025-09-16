@@ -1,4 +1,4 @@
-## Hi there I am new here 👋
+## Hi there I am new here I want to learn this 👋
 
 <!--
 **AbbasAlkhafaji/AbbasAlkhafaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
